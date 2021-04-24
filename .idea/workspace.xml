@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e50e6ef-a5d8-4e19-960a-6502c1799389" name="Default Changelist" comment="" />
+    <list default="true" id="6e50e6ef-a5d8-4e19-960a-6502c1799389" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core_gen/templates/core_gen/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/core_gen/templates/core_gen/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core_gen/templates/core_gen/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/core_gen/templates/core_gen/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core_gen/templates/core_gen/password.html" beforeDir="false" afterPath="$PROJECT_DIR$/core_gen/templates/core_gen/password.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +24,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1rInV2E1hqmuwVGiGQZsPLNziq7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,8 +35,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/core_gen/templates/core_gen" />
     <property name="settings.editor.selected.configurable" value="preferences.editor.code.editing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\phillip\PycharmProjects\password_generator\core_gen\templates\core_gen" />
+      <recent name="C:\Users\phillip\PycharmProjects\password_generator\core_gen\static\core_gen" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
